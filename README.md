@@ -10,4 +10,4 @@ within the data. The data files we used spanned
 various domains, each contributing unique and
 valuable information to our analysis. </p>
 
-Here is the list of <a href = "https://github.com/codesid7/Pizza_Sales_SQL/blob/50a0d43b3ac77889b49fc80e08c160613a387742/Pizza_Sales_Questions.txt"> Questions </a> 
+Here is the list of <a href = "https://github.com/codesid7/Pizza_Sales_SQL/blob/f8307321b8d28880737149212b54b67b92999f96/Pizza_Sales/Pizza_Sales_Questions.txt"> Questions </a> 
