@@ -11,3 +11,5 @@ various domains, each contributing unique and
 valuable information to our analysis. </p>
 
 Here is the list of <a href = "https://github.com/codesid7/Pizza_Sales_SQL/blob/f8307321b8d28880737149212b54b67b92999f96/Pizza_Sales/Pizza_Sales_Questions.txt"> Questions </a> 
+
+<p> The analysis is summarised and representation in done in the direct file if you wanna see <a hred ="https://github.com/codesid7/Pizza_Sales_SQL/blob/295d6a48d31a6e6be732896d1a5c3c1bb6d46a66/Pizza_Sales_SQL.pdf"> Sales PDF </a> </p>
